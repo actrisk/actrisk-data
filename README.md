@@ -26,4 +26,6 @@ Risk and insurability of storm damages to residential buildings in
 austria. The Geneva Papers on Risk and Insurance-Issues and Practice,
 37(2), 340-364.
 
+cat_canada :
+PDF file : Bureau Assurance Canada Insurance Office Fact-Book-Section-1-1
 
