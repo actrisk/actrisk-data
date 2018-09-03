@@ -1,4 +1,4 @@
-Year, Month, Day, Place, Province, Type, Loss, 2016Loss
+﻿Year, Month, Day, Place, Province, Type, Loss, 2016Loss
 1983, July, 9, Saskatchewan, SK, Storm, 16385, 36211
 1983, Aug, 3, Edmonton, AB, Storm, 22060, 48752
 1984, April, 30, Bruce County, ON, Wind, 39066, 82774
@@ -119,7 +119,7 @@ Year, Month, Day, Place, Province, Type, Loss, 2016Loss
 2008, April/May, NA, New Brunswick, ON, Flooding, 8010, 9014
 2008, June, 10, several regions in Quebec, QC, Hail, 125000, 140666
 2008, July, 1, Lethbridge, AB, Windstorm/hail, 20500, 23069
-2008, Sept., NA, Saskatchewan, SK, Hail, 132000, 148543
+2008, Sept, NA, Saskatchewan, SK, Hail, 132000, 148543
 2009, July, 24-28, Ontario, ON, Flooding/wind, 227900, 255790
 2009, Aug, 1-3, Alberta, AB, Hail/wind, 376300, 422351
 2010, June, 5-6, Leamington and Windsor/Essex County, ON, Flooding/hail/tornadoes/wind, 127200, 140193
