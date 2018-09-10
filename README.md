@@ -29,3 +29,5 @@ austria. The Geneva Papers on Risk and Insurance-Issues and Practice,
 cat_canada :
 PDF file : Bureau Assurance Canada Insurance Office Fact-Book-Section-1-1
 
+flood_canada : 
+PDF file : Table 2 of Swiss Re (2010)
